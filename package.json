@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev:css": "./node_modules/.bin/sass --watch src/styles/sass:src/styles/css",
+    "dev:css": "sass --watch src/styles/sass:src/styles/css",
     "dev:js": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -42,5 +42,21 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "El resultado de la página de prueba puede verse en:",
+  "main": "babel.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/lite_solutions_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allnulled/lite_solutions_test/issues"
+  },
+  "homepage": "https://github.com/allnulled/lite_solutions_test#readme"
 }
