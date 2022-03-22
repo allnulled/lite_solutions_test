@@ -1,24 +1,3 @@
-# 0000.prueba-01
+El resultado de la página de prueba puede verse en:
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  - [https://allnulled.github.io/lite_solutions_test](https://allnulled.github.io/lite_solutions_test/index.html)
